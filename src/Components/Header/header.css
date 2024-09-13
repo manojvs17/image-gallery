@@ -1,0 +1,44 @@
+.navbar-container{
+    background:#333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-name{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+ padding: 0% 10% 0%;
+ display: flex;
+ align-items: center;
+}
+.navbar-button-group{
+padding: 1% 5%;
+}
+.icon-image{
+    height: 30px;
+    width: 30px;
+    padding: 0 10px;
+}
+.upload-button {
+    --bg: linear-gradient(180deg,
+              hsla(0, 0%, 100%, .1),
+              hsla(0, 0%, 100%, 0)),
+          hsl(128, 52%, 45%);
+    box-shadow: 0 1px 2px #25114f66, 0 0 0 1px hsla(128, 50%, 45%, 0.761);
+    background-color: transparent;
+    border: none;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    padding: .10rem .5rem;
+    cursor: pointer;
+    padding-right: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--bg);
+    white-space: nowrap;
+    border-radius: 6px;
+    border: 1px solid #fff3;
+  }  

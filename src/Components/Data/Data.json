@@ -1,0 +1,253 @@
+{
+    "name": "Sweetheart",
+    "age": 22,
+    "country": "India",
+    "likeIcon": "https://t4.ftcdn.net/jpg/01/25/83/03/240_F_125830316_m9Grtzjlt2I5Gp4qpDQq5G5BSXR5d9ZF.jpg",
+    "likedIcon": "https://cdn-icons-png.freepik.com/256/12533/12533153.png?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid",
+    "downloadIcon": "https://img.freepik.com/premium-vector/download-icon-vector-illustration-install-symbol_654297-207.jpg?w=996",
+    "copyIcon": "https://cdn-icons-png.flaticon.com/128/11380/11380507.png",
+    "imageSrc": "https://cdn-icons-png.freepik.com/256/3627/3627668.png",
+    "categoryIcon": "https://cdn-icons-png.freepik.com/256/5344/5344938.png?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid",
+    "favoritesIcon":"https://cdn-icons-png.freepik.com/256/10042/10042748.png?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid",
+    "oopsIcon":"https://cdn.vectorstock.com/i/500p/21/11/no-data-found-for-sites-banner-design-vector-50642111.avif",
+    "imageList": [
+        {
+            "id": "0",
+            "name": "Serene Lake Sunset",
+            "category": "Nature",
+            "description": "Golden sunset reflecting off a tranquil lake.",
+            "src": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "1",
+            "name": "Neon Cityscape",
+            "category": "Nature",
+            "description": "Crowded urban street illuminated by neon lights.",
+            "src": "https://img.freepik.com/free-photo/mesmerizing-scenery-green-mountains-with-cloudy-sky-surface_181624-27189.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "2",
+            "name": "Morning Dew Rose",
+            "category": "Nature",
+            "description": "Red rose adorned with dewdrops in soft morning light.",
+            "src": "https://img.freepik.com/free-photo/morskie-oko-tatry_1204-510.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "3",
+            "name": "Cloud-Kissed Peak",
+            "category": "Nature",
+            "description": "Snow-covered mountain peak emerging from thick clouds.",
+            "src": "https://img.freepik.com/free-photo/water-landscape-freshness-beauty-forest_1417-341.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "4",
+            "name": "Forest Pathway",
+            "category": "Nature",
+            "description": "Golden sunset reflecting off a forest dirt road.",
+            "src": "https://img.freepik.com/free-photo/dirt-road-middle-forest-with-trees-plants_181624-2536.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "5",
+            "name": "Tropical Falls",
+            "category": "Nature",
+            "description": "A stunning waterfall amidst lush tropical nature.",
+            "src": "https://img.freepik.com/free-photo/waterfall-nature-thailand_335224-989.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "6",
+            "name": "Ancient Sunrise",
+            "category": "Nature",
+            "description": "Red rose with dewdrops bathed in soft morning light.",
+            "src": "https://img.freepik.com/free-photo/landmark-forest-tourism-sunrise-famous-ancient_1417-1194.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "7",
+            "name": "Erawan Falls",
+            "category": "Nature",
+            "description": "Snowy mountain peak hidden behind dense clouds.",
+            "src": "https://img.freepik.com/free-photo/waterfall-level-2-erawan-national-park-kanchanaburi-thailand_554837-657.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "8",
+            "name": "Sports Gear",
+            "category": "Sports",
+            "description": "Various sports tools arranged for action and play.",
+            "src": "https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "9",
+            "name": "Soccer Match",
+            "category": "Sports",
+            "description": "Dynamic action shot of soccer players in a stadium.",
+            "src": "https://img.freepik.com/free-photo/soccer-players-action-professional-stadium_654080-1130.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "10",
+            "name": "Sports Collection",
+            "category": "Sports",
+            "description": "A collection of various sports equipment in a studio.",
+            "src": "https://img.freepik.com/premium-photo/various-sports-equipment-black-background-studio-shot_93675-162779.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "11",
+            "name": "Sports Illustration",
+            "category": "Sports",
+            "description": "Colorful illustration of a sports-themed action figure.",
+            "src": "https://img.freepik.com/premium-photo/colorful-drawing-man-with-word-x-it_68880-133214.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "12",
+            "name": "Soccer Ready",
+            "category": "Sports",
+            "description": "Close-up of a soccer player poised to kick the ball.",
+            "src": "https://img.freepik.com/premium-photo/close-up-soccer-striker-ready-kicks-ball-stadium_207634-2933.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "13",
+            "name": "Athletes Collage",
+            "category": "Sports",
+            "description": "Collage of athletes engaging in various sports activities.",
+            "src": "https://img.freepik.com/premium-photo/collage-several-athletes-playing-different-sports_978521-37140.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "14",
+            "name": "Soccer Action",
+            "category": "Sports",
+            "description": "Soccer players in action during a professional match.",
+            "src": "https://img.freepik.com/free-photo/soccer-players-action-professional-stadium_654080-1156.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "15",
+            "name": "Sports Event",
+            "category": "Sports",
+            "description": "Collage showing athletes participating in different sports.",
+            "src": "https://img.freepik.com/premium-photo/collage-several-athletes-playing-different-sports_978521-37130.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "16",
+            "name": "Tiger by Water",
+            "category": "Animals",
+            "description": "Majestic tiger resting on rocks by a water body.",
+            "src": "https://img.freepik.com/premium-photo/tiger-rock-by-water_865967-7975.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "17",
+            "name": "Playful Puppy",
+            "category": "Animals",
+            "description": "Cute Jack Russel Terrier puppy looking at the camera.",
+            "src": "https://img.freepik.com/premium-photo/cute-jack-russel-terrier-puppy-looking-camera-standing-purple-background_1048944-11831653.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "18",
+            "name": "Kitten Close-Up",
+            "category": "Animals",
+            "description": "Close-up of a cute kitten sitting on the floor.",
+            "src": "https://img.freepik.com/free-photo/selective-closeup-cute-kitten-floor_181624-58552.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "19",
+            "name": "Lion Sunset",
+            "category": "Animals",
+            "description": "Lion standing on grassy landscape during sunset.",
+            "src": "https://img.freepik.com/premium-photo/lion-stands-grassy-landscape-sunset_461200-2434.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "20",
+            "name": "Tree Sunset",
+            "category": "Nature",
+            "description": "Golden sunset reflected off a calm, serene lake.",
+            "src": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "21",
+            "name": "Vintage Book Stack",
+            "category": "Books",
+            "description": "Stack of vintage hardcover books arranged neatly.",
+            "src": "https://img.freepik.com/free-photo/stack-vintage-hardcover-books_23-2148213841.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "22",
+            "name": "Book Titles",
+            "category": "Books",
+            "description": "Stack of books with one titled prominently displayed.",
+            "src": "https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called_235568-477.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "23",
+            "name": "Open Book Stack",
+            "category": "Books",
+            "description": "Open book on a stack against a light blue wall.",
+            "src": "https://img.freepik.com/premium-photo/open-book-stack-books-are-located-wooden-table-against-light-blue-wall_188556-1640.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "24",
+            "name": "Bookshelf Stack",
+            "category": "Books",
+            "description": "Stack of books on a table in front of a bookshelf.",
+            "src": "https://img.freepik.com/premium-photo/stack-books-table-front-bookshelf-generative-ai_97167-5627.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "25",
+            "name": "Textbook Pile",
+            "category": "Books",
+            "description": "Textbooks scattered near a bookcase.",
+            "src": "https://img.freepik.com/free-photo/textbooks-lying-near-bookcase_23-2147845949.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "26",
+            "name": "Acrylic Forest",
+            "category": "Paintings",
+            "description": "Acrylic painting of a boy looking out over a vast forest.",
+            "src": "https://img.freepik.com/premium-photo/acrylic-painting-young-boy-is-looking-out-vast-primeval-forest_867452-39327.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "27",
+            "name": "Bird and Flowers",
+            "category": "Paintings",
+            "description": "Painting of a girl and a bird among field flowers.",
+            "src": "https://img.freepik.com/premium-photo/painting-girl-bird-field-flowers_783884-464113.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "28",
+            "name": "Cliffside Man",
+            "category": "Paintings",
+            "description": "Painting of a man standing on a cliff with a tree.",
+            "src": "https://img.freepik.com/premium-photo/painting-man-standing-cliff-with-tree-side_1051578-140604.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "29",
+            "name": "Moonlit House",
+            "category": "Paintings",
+            "description": "Painting of a house under a full moon in the sky.",
+            "src": "https://img.freepik.com/premium-photo/painting-house-with-full-moon-sky_783884-465400.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "30",
+            "name": "Pine and Mountains",
+            "category": "Paintings",
+            "description": "Painting of a pine tree with mountains in the background.",
+            "src": "https://img.freepik.com/premium-photo/painting-pine-tree-with-mountains-background_783884-445115.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "31",
+            "name": "Bridge Sunset",
+            "category": "Paintings",
+            "description": "Painting of people on a bridge with a sunset background.",
+            "src": "https://img.freepik.com/premium-photo/painting-people-bridge-with-sun-background_1051578-142461.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "32",
+            "name": "Staircase Scene",
+            "category": "Paintings",
+            "description": "Painting of two people walking down a staircase.",
+            "src": "https://img.freepik.com/premium-photo/painting-two-people-walking-down-staircase-with-word-bottom-right-corner_1051578-147225.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        },
+        {
+            "id": "33",
+            "name": "Forest Reflection",
+            "category": "Paintings",
+            "description": "Painting of a forest with a lake and mountains in the background.",
+            "src": "https://img.freepik.com/premium-photo/painting-forest-with-lake-mountains-background_1198270-92694.jpg?ga=GA1.1.1458930919.1724915780&semt=ais_hybrid"
+        }
+    ]
+}
